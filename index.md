@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the FAU Introduction to Data Science (and lab)
 
-You can use the [editor on GitHub](https://github.com/FAUDataScience/FAUDataScience.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This repository will host the syllabus and course materials for the Wilkes Honors College (WHC) *Intro to Data Science* course in Spring 2018, taught by Professors Kevin Lanning and Warren McGovern, and the lab *Intro to Data Science with R* taught by Dr. Lanning. (For the time being, it includes only a course outline - a syllabus will come later).
+
+Here are some resources for you to consider
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
